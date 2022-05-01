@@ -1,12 +1,4 @@
-# Remotion video
-
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <img src="https://github.com/remotion-dev/logo/raw/main/withtitle/element-0.png">
-  </a>
-</p>
-
-Welcome to your Remotion project!
+# Ram, A Remotion playground
 
 ## Commands
 
